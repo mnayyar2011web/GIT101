@@ -1,2 +1,2 @@
 fruit = "apple"
-print ("i also like to eat {}.format(Fruit);
+print("i also like to eat {}.".format(fruit))
